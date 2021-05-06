@@ -39,6 +39,11 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
+"@elgorditosalsero/react-gtm-hook@^2.0.5":
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/@elgorditosalsero/react-gtm-hook/-/react-gtm-hook-2.0.5.tgz#320ba3140de50e685ad29483edf31a182cfb7210"
+  integrity sha512-dXXX+YCFQkBE8L9VYEqrXTfAXJ5teMLm/PTj9sKasUlmgoZ8nF3cX7YwO1xGerMsyKfhc8qpH9VXIUTVOCM6gg==
+
 "@hapi/accept@5.0.1":
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/@hapi/accept/-/accept-5.0.1.tgz#068553e867f0f63225a506ed74e899441af53e10"
